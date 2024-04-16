@@ -23,8 +23,8 @@ Using Canny operator from cv2,detect the edges of the image.
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 
 ## PROGRAM
-## Developed By : K MADHAVA REDDY
-## Register Number : 212223240064
+## Developed By : D.B.V. SAI GANESH
+## Register Number : 212223240025
 ### Read image and convert it to grayscale image
 ```
 import numpy as np
